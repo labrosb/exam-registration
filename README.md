@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Info
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The task is made with the assumption that is a part of a bigger project in terms of architecture decisions for maintainability reusability etc, with the exception of css usage.
 
 ## Available Scripts
 
