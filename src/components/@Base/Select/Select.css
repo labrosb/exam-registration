@@ -1,0 +1,20 @@
+.base-select {
+  line-height: 22px;
+  font-size: 14px;
+  padding: 10px;
+  margin-top: 14px;
+  border-radius: 14px;
+  border: 1.5px solid black;
+  background-color: white;
+  color: black;
+}
+
+.base-select-unselected {
+  color: grey;
+}
+
+.base-select-error {
+  margin: 6px 0 6px 6px;
+  font-size: 12px;
+  color: red;
+}

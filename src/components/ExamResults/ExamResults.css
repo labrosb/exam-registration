@@ -1,0 +1,10 @@
+.results-container {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.no-results {
+  text-align: center;
+  line-height: 40px;
+}

@@ -1,0 +1,17 @@
+.new-result-form {
+  display: flex;
+  flex-direction: column;
+  max-width: 700px;
+  padding: 60px 20px;
+  margin: auto;
+}
+
+.success-message {
+  text-align: center;
+  color: black;
+}
+
+.error-message {
+  text-align: center;
+  color: red;
+}
