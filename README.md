@@ -1,6 +1,6 @@
 # Info
 
-The task is made with the assumption that is a part of a bigger project in terms of architecture decisions for maintainability reusability etc, with the exception of css usage.
+A small UI registering, storing locally and previewing medical exams
 
 ## Available Scripts
 
